@@ -5,6 +5,8 @@
     "branch": "master",
     "cname": "centroslibres.org"
   },
+  "site": {},
+  "socialnetwork": {},
   "theme": {
     "name": "casper"
   }
