@@ -2,7 +2,8 @@
   "meta": {
     "username": "somosazucar",
     "repositoryName": "centroslibres",
-    "branch": "master"
+    "branch": "master",
+    "cname": "centroslibres.org"
   },
   "theme": {
     "name": "casper"
